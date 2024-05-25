@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="../src/output.css">
+</head>
+<body class="font-mono">
+    <div class="flex h-screen">
+        <img class="hidden lg:block w-1/2" src="Clg.jpg" alt="">
+        <div class="flex flex-col justify-center items-center w-full lg:w-1/2">         
+            <div>
+                <div class="text-xl text-center font-bold lg:text-left">
+                    <span class="text-green-600">&#9650;</span>
+                    <span>FarmMan</span>
+                </div>
+                <div class="text-3xl text-center font-bold lg:text-left">
+                    <h2>Hello, </h2>
+                    <h2>Welcome Back</h2>
+                </div>
+                <!--Login form-->
+                <form action="" class="mt-8 w-[80%] lg:w-96 mx-auto space-y-4">
+                    <h4>Login to manage your account</h4>
+                    <input class="border w-full px-4 py-2"
+                     type="email" placeholder="Email">
+                     <input class="border w-full px-4 py-2"
+                     type="password" placeholder="Password">
+                     <div class="text-blue-600 cursor-pointer hover:text-blue-400">Forgot your password?</div>
+                    <button class="w-full bg-green-600 text-white py-2 rounded font-bold hover:bg-green-500">Login</button>
+                    </form>
+            </div>
+            <div class="text-center space-y-4 mt-4">
+                <span>OR</span>
+                <div class="flex justify-center items-center gap-8">
+                    <img class="w-10 h-10" src="google.png" alt="">
+                    <img class="w-10 h-10" src="facebook.png" alt="">
+                    <img class="w-10 h-10" src="instagram.png" alt="">
+                </div>
+            </div>
+            <div class="mt-4 text-sm text-center">Don't have an account? <span class="text-blue-600 cursor-pointer">Sign up here</span></div>
+        </div>
+    </div>
+</body>
+</html>
