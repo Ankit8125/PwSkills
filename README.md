@@ -8,3 +8,6 @@ A simple clone of pwSkills Website, you can see the website below in the form of
 Do:
 npx tailwindcss init
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+
+# Login Page
+![Uploading Screenshot 2024-05-25 195101.png…]()
