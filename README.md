@@ -10,4 +10,4 @@ npx tailwindcss init
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 
 # Login Page
-![Uploading Screenshot 2024-05-25 195101.png…]()
+![Screenshot 2024-05-25 195101](https://github.com/Ankit8125/PwSkills/assets/117138095/1d44b982-5d18-4802-beaf-69d6a0129817)
