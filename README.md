@@ -1,5 +1,6 @@
 # PwSkills
 A simple clone of pwSkills Website, you can see the website below in the form of images. It's also responsive
-![Screenshot (806)](https://github.com/Ankit8125/PwSkills/assets/117138095/57e53997-b2b1-417a-8014-cd70fb5bd317)
-![Screenshot (807)](https://github.com/Ankit8125/PwSkills/assets/117138095/b01e0989-61b5-48aa-b9fa-e0cbc36e3243)
-![Screenshot (808)](https://github.com/Ankit8125/PwSkills/assets/117138095/2cae85cc-e62a-4597-ba4c-e406b88879c0)
+
+![Screenshot (806)](https://github.com/Ankit8125/PwSkills/assets/117138095/503f70be-67d6-4d09-8dd2-256a1dc4c653)
+![Screenshot (807)](https://github.com/Ankit8125/PwSkills/assets/117138095/15a2fb7c-b2c1-4ee7-bbb5-2d858b4dbc8d)
+![Screenshot (808)](https://github.com/Ankit8125/PwSkills/assets/117138095/a29774b1-412a-4d2a-b8ca-89e0ce034d5b)
